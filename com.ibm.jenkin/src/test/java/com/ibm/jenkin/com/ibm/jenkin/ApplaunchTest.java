@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 
 
-public class Applaunch{
+public class ApplaunchTest{
 	public WebDriver driver;
 	
   @Test
